@@ -10,5 +10,5 @@
   ### Space Game
   OOP graphical game using sounds and images for a full user experience
 
-  ![Gameplay](https://github.com/CosmicIris/programmingportfolio/blob/main/sg1.png)
+  ![Gameplay](https://github.com/CosmicIris/programmingportfolio/tree/main/images)
   [Source code](https://github.com/CosmicIris/programmingportfolio/blob/main/SpaceGame_currentvers_.zip)
