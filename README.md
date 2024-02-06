@@ -15,7 +15,7 @@
 
 ### Calculator
 application that allows the user to perform calculations similar to those of a standard calculator
-<img align="left" width="100" height="100"> ![Screenshot 2024-02-05 211349](https://github.com/CosmicIris/programmingportfolio/assets/111626385/d706b0ab-d43e-4241-8a95-095f53370dcc)
+<img align="left" width="100" height="100" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/d706b0ab-d43e-4241-8a95-095f53370dcc">
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
 
 
