@@ -10,12 +10,12 @@
 
   ### Space Game
  game that uses sounds and graphics for a full user experience
-<img width="781" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/ccf43580-b569-4ac0-a4b3-0fecfde60c4f">
+<img width="500" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/ccf43580-b569-4ac0-a4b3-0fecfde60c4f">
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14168915/SpaceGame_currentvers_.zip)
 
 ### Calculator
 application that allows the user to perform calculations similar to those of a standard calculator
-<img align="left" width="500" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/d706b0ab-d43e-4241-8a95-095f53370dcc">
+<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/d706b0ab-d43e-4241-8a95-095f53370dcc">
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
 
 
