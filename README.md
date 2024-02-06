@@ -28,7 +28,7 @@ application that allows the user to perform calculations similar to those of a s
 application that converts degrees fahrenheit to degrees celcius and vice versa
 
 
-<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/c54369a8-b764-4b97-9efc-e87b4168620c"
+<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/c54369a8-b764-4b97-9efc-e87b4168620c" >
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169083/ConversionApp.zip)
 
@@ -36,7 +36,7 @@ application that converts degrees fahrenheit to degrees celcius and vice versa
 application that forever randomly draws straight lines of random thickness, length, and colors onto the screen
 
 
-<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/29463976-aa9c-4bf1-bb41-653267a14196)"
+<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/29463976-aa9c-4bf1-bb41-653267a14196)">
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169076/ScreenSaver_App.zip)
 
@@ -44,6 +44,6 @@ application that forever randomly draws straight lines of random thickness, leng
 ### Etch a Sketch
 application that allows the user to create images using specific keys, similar to the Etch a Sketch toy
 
-<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/8417df3c-a527-49d4-b370-d382864c0bea"
+<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/8417df3c-a527-49d4-b370-d382864c0bea">
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169079/EtchASketch.zip)
