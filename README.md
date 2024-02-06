@@ -16,11 +16,11 @@
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14168915/SpaceGame_currentvers_.zip)
 
 
-
 ### Calculator 
 application that allows the user to perform calculations similar to those of a standard calculator
 
 <br clear="left"/>
+
 
 ![Screenshot 2024-02-05 220057](https://github.com/CosmicIris/programmingportfolio/assets/111626385/d6a2ddb1-0cbd-4bd6-87f4-5a6f88bcb7dc)
 
