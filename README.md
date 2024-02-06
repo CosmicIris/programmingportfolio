@@ -13,15 +13,20 @@
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14168915/SpaceGame_currentvers_.zip)
 
 ### Calculator
-[calculator 3.zip](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
+application that uses user input to perform calculations similar to a standard calculator
+![Screenshot 2024-02-05 211349](https://github.com/CosmicIris/programmingportfolio/assets/111626385/d706b0ab-d43e-4241-8a95-095f53370dcc)
+[source code](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
 
 
 ### Converter App
+application that converts degrees fahrenheit to degrees celcius and vice versa
 [ConversionApp.zip](https://github.com/CosmicIris/programmingportfolio/files/14169083/ConversionApp.zip)
 
 ### Screensaver App
+application that
 [ScreenSaver_App.zip](https://github.com/CosmicIris/programmingportfolio/files/14169076/ScreenSaver_App.zip)
 
 
 ### Etch a Sketch
+application that allows the user to create images using specific keys, similar to the Etch a Sketch toy
 [EtchASketch.zip](https://github.com/CosmicIris/programmingportfolio/files/14169079/EtchASketch.zip)
