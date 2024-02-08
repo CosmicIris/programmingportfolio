@@ -1,5 +1,5 @@
 # Felicia Shi's Programming Portfolio 2024
-## [contact info](9645256@graniteschools.org)
+## [contact info](mailto:9645256@graniteschools.org)
 
 ## Tech Certifications
 * Exploring Computer Science USOE State Certification
