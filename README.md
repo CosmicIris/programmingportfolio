@@ -39,8 +39,7 @@ application that converts degrees fahrenheit to degrees celcius and vice versa
 ### Screensaver App
 application that forever randomly draws straight lines of random thickness, length, and colors onto the screen
 
-
-<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/29463976-aa9c-4bf1-bb41-653267a14196)">
+![screensaver app screenshot](https://github.com/CosmicIris/programmingportfolio/assets/111626385/0b2b3e06-bfaa-4800-9ae7-50b5d0882ad6)
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169076/ScreenSaver_App.zip)
 
