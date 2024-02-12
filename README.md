@@ -9,22 +9,16 @@
   ## Individual Projects
 
   ### Space Game
-
-  
  game that uses sounds and graphics for a full user experience
 
  
- 
 <img align = "left" width="500" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/ccf43580-b569-4ac0-a4b3-0fecfde60c4f">
-
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14168915/SpaceGame_currentvers_.zip)
 
 
 ### Calculator 
-
-
 application that allows the user to perform calculations similar to those of a standard calculator
 
 
@@ -35,8 +29,6 @@ application that allows the user to perform calculations similar to those of a s
 
 
 ### Converter App
-
-
 application that converts degrees fahrenheit to degrees celcius and vice versa
 
 
@@ -46,8 +38,6 @@ application that converts degrees fahrenheit to degrees celcius and vice versa
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169083/ConversionApp.zip)
 
 ### Screensaver App
-
-
 application that forever randomly draws straight lines of random thickness, length, and colors onto the screen
 
 
@@ -58,8 +48,6 @@ application that forever randomly draws straight lines of random thickness, leng
 
 
 ### Etch a Sketch
-
-
 application that allows the user to create images using specific keys, similar to the Etch a Sketch toy
 
 
