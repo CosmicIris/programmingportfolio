@@ -11,8 +11,7 @@
   ### Space Game
  game that uses sounds and graphics for a full user experience
 
- 
-<img align = "left" width="500" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/ccf43580-b569-4ac0-a4b3-0fecfde60c4f">
+ [space game](https://github.com/CosmicIris/programmingportfolio/assets/111626385/ccf43580-b569-4ac0-a4b3-0fecfde60c4f")
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14168915/SpaceGame_currentvers_.zip)
