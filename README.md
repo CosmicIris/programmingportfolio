@@ -20,8 +20,9 @@
 ### Calculator 
 application that allows the user to perform calculations similar to those of a standard calculator
 
+![Screenshot 2024-02-05 220057](https://github.com/CosmicIris/programmingportfolio/assets/111626385/7639f274-83fc-4295-9e82-f919d1819218)
 
-< img align = "left" width = "400" src ="https://github.com/CosmicIris/programmingportfolio/assets/111626385/d6a2ddb1-0cbd-4bd6-87f4-5a6f88bcb7dc">
+[comment]:<img align = "left" width = "400" src ="https://github.com/CosmicIris/programmingportfolio/assets/111626385/d6a2ddb1-0cbd-4bd6-87f4-5a6f88bcb7dc">
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
