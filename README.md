@@ -44,7 +44,10 @@ application that converts degrees fahrenheit to degrees celcius and vice versa
 application that forever randomly draws straight lines of random thickness, length, and colors onto the screen
 
 
-<img align ="left" width ="400" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/0b2b3e06-bfaa-4800-9ae7-50b5d0882ad6">
+![Screenshot 2024-02-05 212527](https://github.com/CosmicIris/programmingportfolio/assets/111626385/5f20ff3c-3244-486d-9091-b975a1b76143)
+
+
+[comment]: <img align ="left" width ="400" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/0b2b3e06-bfaa-4800-9ae7-50b5d0882ad6">
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169076/ScreenSaver_App.zip)
@@ -54,7 +57,10 @@ application that forever randomly draws straight lines of random thickness, leng
 application that allows the user to create images using specific keys, similar to the Etch a Sketch toy
 
 
-<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/8417df3c-a527-49d4-b370-d382864c0bea">
+![Screenshot 2024-02-05 212936](https://github.com/CosmicIris/programmingportfolio/assets/111626385/2ae16cec-4fbe-428b-a372-4286da4a86cb)
+
+
+[comment]: <img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/8417df3c-a527-49d4-b370-d382864c0bea">
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169079/EtchASketch.zip)
