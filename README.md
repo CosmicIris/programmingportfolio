@@ -12,7 +12,7 @@
  game that uses sounds and graphics for a full user experience
 
 
-![Screenshot 2024-02-12 212058](https://github.com/CosmicIris/programmingportfolio/assets/111626385/19f2507f-b58f-4e10-a4df-5dba933de7b0)
+![Screenshot 2024-02-12 212058](https://github.com/CosmicIris/programmingportfolio/assets/111626385/1dc24ac5-e0e7-41c8-8f23-3ca845e06d52)
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14168915/SpaceGame_currentvers_.zip)
