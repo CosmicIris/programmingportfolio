@@ -20,6 +20,7 @@
 ### Calculator 
 application that allows the user to perform calculations similar to those of a standard calculator
 
+
 ![Screenshot 2024-02-05 220057](https://github.com/CosmicIris/programmingportfolio/assets/111626385/7639f274-83fc-4295-9e82-f919d1819218)
 
 [comment]:<img align = "left" width = "400" src ="https://github.com/CosmicIris/programmingportfolio/assets/111626385/d6a2ddb1-0cbd-4bd6-87f4-5a6f88bcb7dc">
@@ -32,7 +33,9 @@ application that allows the user to perform calculations similar to those of a s
 application that converts degrees fahrenheit to degrees celcius and vice versa
 
 
-<img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/c54369a8-b764-4b97-9efc-e87b4168620c" >
+![Screenshot 2024-02-05 211836](https://github.com/CosmicIris/programmingportfolio/assets/111626385/4b175336-84e6-4eeb-bcd9-f7449929cc60)
+
+[comment]: <img align="left" width="300" height="500" src = "https://github.com/CosmicIris/programmingportfolio/assets/111626385/c54369a8-b764-4b97-9efc-e87b4168620c" >
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169083/ConversionApp.zip)
