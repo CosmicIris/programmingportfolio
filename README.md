@@ -50,7 +50,7 @@ application that converts degrees fahrenheit to degrees celcius and vice versa
 application that forever randomly draws straight lines of random thickness, length, and colors onto the screen
 
 
-![Screenshot 2024-02-05 212527](https://github.com/CosmicIris/programmingportfolio/assets/111626385/5f20ff3c-3244-486d-9091-b975a1b76143)
+<img src ="https://github.com/CosmicIris/programmingportfolio/assets/111626385/5f20ff3c-3244-486d-9091-b975a1b76143" width ="300" height ="400">
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169076/ScreenSaver_App.zip)
