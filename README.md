@@ -22,7 +22,7 @@
 application that allows the user to perform calculations similar to those of a standard calculator
 
 
-![Screenshot 2024-02-05 220057](https://github.com/CosmicIris/programmingportfolio/assets/111626385/7639f274-83fc-4295-9e82-f919d1819218)
+<img src="https://your-image-url.type](https://github.com/CosmicIris/programmingportfolio/assets/111626385/7639f274-83fc-4295-9e82-f919d1819218" width="100" height="100"> 
 
 
 GUI Mockup
