@@ -31,7 +31,7 @@ GUI Mockup
 
 
 
-<img src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7" width="300" height="500"> 
+<img src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7" width="300" height="400"> 
 
 
 [comment]:<![IMG-7016](https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7)>
