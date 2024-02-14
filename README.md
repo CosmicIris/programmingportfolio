@@ -28,7 +28,6 @@ application that allows the user to perform calculations similar to those of a s
 GUI Mockup
 
 
-
 <img src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7" width="300" height="400"> 
 
 
@@ -42,7 +41,7 @@ GUI Mockup
 application that converts degrees fahrenheit to degrees celcius and vice versa
 
 
-![Screenshot 2024-02-05 211836](https://github.com/CosmicIris/programmingportfolio/assets/111626385/4b175336-84e6-4eeb-bcd9-f7449929cc60)
+<img src ="https://github.com/CosmicIris/programmingportfolio/assets/111626385/4b175336-84e6-4eeb-bcd9-f7449929cc60" width ="300" height = "400">
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169083/ConversionApp.zip)
