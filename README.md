@@ -12,7 +12,8 @@
  game that uses sounds and graphics for a full user experience
 
 
-![Screenshot 2024-02-12 212058](https://github.com/CosmicIris/programmingportfolio/assets/111626385/1dc24ac5-e0e7-41c8-8f23-3ca845e06d52)
+<img width="400" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/b8e4f4db-3bcd-4068-8412-cd8552423967">
+
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14168915/SpaceGame_currentvers_.zip)
@@ -21,7 +22,7 @@
 ### Calculator 
 application that allows the user to perform calculations similar to those of a standard calculator
 
-<img width="165" alt="Screenshot 2024-02-14 at 10 04 33 AM" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/1609ed01-eaa1-4455-8cb0-653cc767bf1d">
+<img width="400" alt="Screenshot 2024-02-14 at 10 04 33 AM" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/1609ed01-eaa1-4455-8cb0-653cc767bf1d">
 
 
 
