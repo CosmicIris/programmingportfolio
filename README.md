@@ -25,8 +25,7 @@ application that allows the user to perform calculations similar to those of a s
 <img width="200" height ="400" alt="Screenshot 2024-02-14 at 10 04 33 AM" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/1609ed01-eaa1-4455-8cb0-653cc767bf1d">
 
 
-
-GUI Mockup
+GUI Mockup:
 
 
 <img src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7" width="300" height="400"> 
