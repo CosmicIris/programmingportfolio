@@ -12,7 +12,7 @@
  game that uses sounds and graphics for a full user experience
 
 
-<img width="400" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/b8e4f4db-3bcd-4068-8412-cd8552423967">
+<img width="200" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/b8e4f4db-3bcd-4068-8412-cd8552423967">
 
 
 
