@@ -12,7 +12,7 @@
  game that uses sounds and graphics for a full user experience
 
 
-<img width="400" height ="500" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/b8e4f4db-3bcd-4068-8412-cd8552423967">
+<img width="300" height ="400" alt="sg1" src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/b8e4f4db-3bcd-4068-8412-cd8552423967">
 
 
 
@@ -29,9 +29,6 @@ GUI Mockup
 
 
 <img src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7" width="300" height="400"> 
-
-
-[comment]:<![IMG-7016](https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7)>
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
