@@ -25,6 +25,12 @@ application that allows the user to perform calculations similar to those of a s
 ![Screenshot 2024-02-05 220057](https://github.com/CosmicIris/programmingportfolio/assets/111626385/7639f274-83fc-4295-9e82-f919d1819218)
 
 
+GUI Mockup
+
+
+![IMG-7016](https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7)
+
+
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
 
 
