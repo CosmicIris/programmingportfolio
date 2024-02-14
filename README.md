@@ -60,7 +60,7 @@ application that forever randomly draws straight lines of random thickness, leng
 application that allows the user to create images using specific keys, similar to the Etch a Sketch toy
 
 
-![Screenshot 2024-02-05 212936](https://github.com/CosmicIris/programmingportfolio/assets/111626385/2ae16cec-4fbe-428b-a372-4286da4a86cb)
+<img src ="https://github.com/CosmicIris/programmingportfolio/assets/111626385/2ae16cec-4fbe-428b-a372-4286da4a86cb" width ="300" height ="400">
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169079/EtchASketch.zip)
