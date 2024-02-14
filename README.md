@@ -22,13 +22,17 @@
 application that allows the user to perform calculations similar to those of a standard calculator
 
 
-<img src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/7639f274-83fc-4295-9e82-f919d1819218" width="100" height="100"> 
+<img src="" width="100" height="100"> 
 
 
 GUI Mockup
 
 
-![IMG-7016](https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7)
+
+<img src="https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7" width="300" height="500"> 
+
+
+[comment]:<![IMG-7016](https://github.com/CosmicIris/programmingportfolio/assets/111626385/2e393693-6076-45bb-9518-06e672e0bac7)>
 
 
 [source code](https://github.com/CosmicIris/programmingportfolio/files/14169099/calculator.3.zip)
