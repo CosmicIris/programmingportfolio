@@ -4,7 +4,7 @@
 ## Tech Certifications
 * Exploring Computer Science USOE State Certification
 
-  ## Group Project
+## Group Project
   For the final project of third quarter, me and three other students developed a typing test called "OrangUtype" which allowed the user to choose how many words they wanted to type, randomly generated words related to orangutans based on this amount, and kept track of the user's words per minute and consistency as they typed, showing the user a graph of their consistency and words per minute over time after they finished the typing test.
 
   
@@ -12,14 +12,14 @@
 [OrangUtype source code](https://github.com/CosmicIris/programmingportfolio/files/14608863/Orangutype-main.zip)
 
 
-  ## Individual Projects
+## Individual Projects
 
-  ### Second Semester Individual Project
+### Second Semester Individual Project
   For my final project, I created a text based storytelling game called "Enchanter's Curse" that revolved around the concept of a curse being placed on a kingdom and the user needing to find certain items to break the curse.
 
   [link to individual project repository](https://github.com/CosmicIris/2024individualprogrammingproject)
 
-  ### Space Game
+### Space Game
  game that uses sounds and graphics for a full user experience
 
 
