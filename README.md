@@ -17,7 +17,8 @@
 ### Second Semester Individual Project
   For my final project, I created a text based storytelling game called "Enchanter's Curse" that revolved around the concept of a curse being placed on a kingdom and the user needing to find certain items to break the curse.
 
-  [link to individual project repository](https://github.com/CosmicIris/2024individualprogrammingproject){:target="_blank"}
+<a href="https://github.com/CosmicIris/2024individualprogrammingproject" target="_blank"></a>
+//[link to individual project repository](https://github.com/CosmicIris/2024individualprogrammingproject)
 
 ### Space Game
  game that uses sounds and graphics for a full user experience
