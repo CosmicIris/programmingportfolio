@@ -8,6 +8,8 @@
   For the final project of third quarter, me and three other students developed a typing test called "OrangUtype" which allowed the user to choose how many words they wanted to type, randomly generated words related to orangutans based on this amount, and kept track of the user's words per minute and consistency as they typed, showing the user a graph of their consistency and words per minute over time after they finished the typing test.
 
   
+[link to group project repository](https://github.com/william-Silver-droid/Orangutype)
+
 
 [OrangUtype source code](https://github.com/CosmicIris/programmingportfolio/files/14608863/Orangutype-main.zip)
 
