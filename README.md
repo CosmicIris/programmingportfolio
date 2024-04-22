@@ -11,9 +11,6 @@
 [link to group project repository](https://github.com/william-Silver-droid/Orangutype)
 
 
-[OrangUtype source code](https://github.com/CosmicIris/programmingportfolio/files/14608863/Orangutype-main.zip)
-
-
 ## Individual Projects
 
 ### Second Semester Individual Project
